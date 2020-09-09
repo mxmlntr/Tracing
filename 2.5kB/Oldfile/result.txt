@@ -1,0 +1,28 @@
+Mean of probe 0: 0.0
+Mean of probe 1: 1827.32
+Mean of probe 2: 57.54
+Mean of probe 3: 83.02
+Mean of probe 4: 90.4
+Mean of probe 5: 85.82
+Mean of probe 6: 24.29
+Mean of probe 7: 2168.39
+
+Var of probe 0: 0.0
+Var of probe 1: 2645230.8
+Var of probe 2: 1867.1
+Var of probe 3: 352.18
+Var of probe 4: 268.87
+Var of probe 5: 9498.77
+Var of probe 6: 613.22
+Var of probe 7: 2628336.29
+
+Std of probe 0: 0.0
+Std of probe 1: 1626.42
+Std of probe 2: 43.21
+Std of probe 3: 18.77
+Std of probe 4: 16.4
+Std of probe 5: 97.46
+Std of probe 6: 24.76
+Std of probe 7: 1621.21
+
+Measurement Count= 273.0

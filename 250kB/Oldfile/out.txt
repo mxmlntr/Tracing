@@ -1,0 +1,14 @@
+[10:12:53.048316085] (+?.?????????) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 3 }, { probeNumber = 0 }
+[10:12:53.053936073] (+0.005619988) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 3 }, { probeNumber = 1 }
+[10:12:53.054034935] (+0.000098862) dev-vm tp_provider:time_tracepoint_dummy_old: { cpu_id = 1 }, { probeNumber = 2 }
+[10:12:53.055252827] (+0.001217892) dev-vm tp_provider:time_tracepoint_dummy_old: { cpu_id = 1 }, { probeNumber = 3 }
+[10:12:53.055340760] (+0.000087933) dev-vm tp_provider:time_tracepoint_dummy_old: { cpu_id = 1 }, { probeNumber = 4 }
+[10:12:53.055413896] (+0.000073136) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 3 }, { probeNumber = 5 }
+[10:12:53.055436396] (+0.000022500) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 3 }, { probeNumber = 6 }
+[10:12:53.589066986] (+?.?????????) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 0 }, { probeNumber = 0 }
+[10:12:53.592231072] (+0.003164086) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 0 }, { probeNumber = 1 }
+[10:12:53.592363777] (+0.000132705) dev-vm tp_provider:time_tracepoint_dummy_old: { cpu_id = 2 }, { probeNumber = 2 }
+[10:12:53.593467711] (+0.001103934) dev-vm tp_provider:time_tracepoint_dummy_old: { cpu_id = 2 }, { probeNumber = 3 }
+[10:12:53.593554387] (+0.000086676) dev-vm tp_provider:time_tracepoint_dummy_old: { cpu_id = 2 }, { probeNumber = 4 }
+[10:12:53.593624207] (+0.000069820) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 0 }, { probeNumber = 5 }
+[10:12:53.593641131] (+0.000016924) dev-vm tp_provider:time_tracepoint_daemon_old: { cpu_id = 0 }, { probeNumber = 6 }

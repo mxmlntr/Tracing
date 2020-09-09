@@ -1,0 +1,13 @@
+Mean of probe 0: 0.0
+Mean of probe 1: 1481538.26
+Mean of probe 2: 1481538.26
+
+Var of probe 0: 0.0
+Var of probe 1: 4396856665.89
+Var of probe 2: 4396856665.89
+
+Std of probe 0: 0.0
+Std of probe 1: 66308.8
+Std of probe 2: 66308.8
+
+Measurement Count= 273.0
